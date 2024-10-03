@@ -2768,6 +2768,9 @@
         },
         {
           "ref": "I391*bd2d0c72-20b2-4337-8e20-5047ea667e85"
+        },
+        {
+          "ref": "I1849*9f1a81ec-2003-47db-b453-ca8ddb58da35"
         }
       ],
       "husbandRefs": [
@@ -51649,6 +51652,25 @@
       "names": [
         {
           "value": " /Nadeak/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+        }
+      ],
+      "id": "I1849*9f1a81ec-2003-47db-b453-ca8ddb58da35",
+      "names": [
+        {
+          "value": "Par Onan Toba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
