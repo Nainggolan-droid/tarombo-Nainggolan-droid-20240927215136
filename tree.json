@@ -5179,9 +5179,6 @@
         },
         {
           "ref": "I714*3c7a6a22-9cba-4fd3-90c3-1dead7db3045"
-        },
-        {
-          "ref": "I1853*2782a356-b882-4baa-b22a-6eeb24d964c3"
         }
       ],
       "husbandRefs": [
@@ -51758,19 +51755,6 @@
       "names": [
         {
           "value": " /Simbolon/"
-        }
-      ]
-    },
-    {
-      "famc": [
-        {
-          "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
-        }
-      ],
-      "id": "I1853*2782a356-b882-4baa-b22a-6eeb24d964c3",
-      "names": [
-        {
-          "value": "A //"
         }
       ]
     }
