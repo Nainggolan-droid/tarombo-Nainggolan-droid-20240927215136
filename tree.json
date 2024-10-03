@@ -5167,6 +5167,9 @@
         },
         {
           "ref": "I1843*9cd969be-8dc8-468b-bcad-09060c767d5a"
+        },
+        {
+          "ref": "I1845*2fb6f4ff-cdc9-4cf5-805a-d0ea26f43607"
         }
       ],
       "husbandRefs": [
@@ -51540,6 +51543,25 @@
       "names": [
         {
           "value": " /Sitanggang/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F301*a00e31b8-4ab3-4674-8622-7796a1696d3d"
+        }
+      ],
+      "id": "I1845*2fb6f4ff-cdc9-4cf5-805a-d0ea26f43607",
+      "names": [
+        {
+          "value": "Nai Bitter //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
