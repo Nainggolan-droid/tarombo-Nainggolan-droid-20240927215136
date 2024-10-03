@@ -13334,6 +13334,19 @@
           "ref": "I1845*2fb6f4ff-cdc9-4cf5-805a-d0ea26f43607"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1848*f41a2425-ac68-4b06-9ad8-16a2b2c27065"
+        }
+      ],
+      "id": "F800*077bfca9-77bc-4638-ac99-badd719d8f36",
+      "wifeRefs": [
+        {
+          "ref": "I1847*cbeafc58-204a-404e-a277-7d2964c23c5c"
+        }
+      ]
     }
   ],
   "head": {
@@ -51606,6 +51619,11 @@
           "ref": "F163*9a1c1a6a-75bd-4610-b6fb-81dde3433e06"
         }
       ],
+      "fams": [
+        {
+          "ref": "F800*077bfca9-77bc-4638-ac99-badd719d8f36"
+        }
+      ],
       "id": "I1847*cbeafc58-204a-404e-a277-7d2964c23c5c",
       "names": [
         {
@@ -51616,6 +51634,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F800*077bfca9-77bc-4638-ac99-badd719d8f36"
+        }
+      ],
+      "id": "I1848*f41a2425-ac68-4b06-9ad8-16a2b2c27065",
+      "names": [
+        {
+          "value": " /Nadeak/"
         }
       ]
     }
