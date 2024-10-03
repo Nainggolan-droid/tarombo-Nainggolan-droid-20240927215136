@@ -2771,6 +2771,9 @@
         },
         {
           "ref": "I1849*9f1a81ec-2003-47db-b453-ca8ddb58da35"
+        },
+        {
+          "ref": "I1850*02edc3fe-9c79-47d1-96ff-ae92a58940c7"
         }
       ],
       "husbandRefs": [
@@ -51665,6 +51668,25 @@
       "names": [
         {
           "value": "Par Onan Toba //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F162*cc313a40-c0c0-428a-a172-5b44e0cbe253"
+        }
+      ],
+      "id": "I1850*02edc3fe-9c79-47d1-96ff-ae92a58940c7",
+      "names": [
+        {
+          "value": "Par Rianiate //"
         }
       ],
       "eventsFacts": [
