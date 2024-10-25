@@ -13395,6 +13395,22 @@
         }
       ],
       "id": "F803*b1aa3f73-ee20-4030-a189-a495c43f4e6e"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1855*a7a9052c-18d3-4436-ba7f-103c5d8a4bcc"
+        },
+        {
+          "ref": "I1856*31561fdd-77d9-49be-abb3-4821db48c3a0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1175*616ff207-c7b4-403c-8492-f06208fa82cf"
+        }
+      ],
+      "id": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
     }
   ],
   "head": {
@@ -38221,6 +38237,11 @@
           "ref": "F501*896957c5-fc17-46af-98fb-5c95f9fec2cd"
         }
       ],
+      "fams": [
+        {
+          "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+        }
+      ],
       "id": "I1175*616ff207-c7b4-403c-8492-f06208fa82cf",
       "names": [
         {
@@ -51809,6 +51830,44 @@
       "names": [
         {
           "value": "Andreas //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+        }
+      ],
+      "id": "I1855*a7a9052c-18d3-4436-ba7f-103c5d8a4bcc",
+      "names": [
+        {
+          "value": "Galogan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+        }
+      ],
+      "id": "I1856*31561fdd-77d9-49be-abb3-4821db48c3a0",
+      "names": [
+        {
+          "value": "Pantun //"
         }
       ],
       "eventsFacts": [
