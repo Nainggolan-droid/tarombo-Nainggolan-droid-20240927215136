@@ -13403,6 +13403,12 @@
         },
         {
           "ref": "I1856*31561fdd-77d9-49be-abb3-4821db48c3a0"
+        },
+        {
+          "ref": "I1857*11cac106-a0bb-41ea-aaff-6ef35239dff0"
+        },
+        {
+          "ref": "I1858*00b85903-749b-4ede-9305-f84e6857409f"
         }
       ],
       "husbandRefs": [
@@ -13411,6 +13417,19 @@
         }
       ],
       "id": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1859*e1670e0f-12e1-4f97-b81a-e0c6625b3711"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1855*a7a9052c-18d3-4436-ba7f-103c5d8a4bcc"
+        }
+      ],
+      "id": "F805*6d0ce500-539a-4a5a-89c5-25d763ccfb64"
     }
   ],
   "head": {
@@ -38252,6 +38271,17 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ],
+      "media": [
+        {
+          "_file": "b1c9e981-3cd3-4899-9611-a551b854932b.jpg",
+          "fileTag": "FILE"
         }
       ]
     },
@@ -51845,10 +51875,15 @@
           "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F805*6d0ce500-539a-4a5a-89c5-25d763ccfb64"
+        }
+      ],
       "id": "I1855*a7a9052c-18d3-4436-ba7f-103c5d8a4bcc",
       "names": [
         {
-          "value": "Galogad //"
+          "value": "Galogat //"
         }
       ],
       "eventsFacts": [
@@ -51873,6 +51908,63 @@
       "names": [
         {
           "value": "Pantun //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+        }
+      ],
+      "id": "I1857*11cac106-a0bb-41ea-aaff-6ef35239dff0",
+      "names": [
+        {
+          "value": "Toni //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F804*a513a668-9479-413e-9b46-72bd7cf6596f"
+        }
+      ],
+      "id": "I1858*00b85903-749b-4ede-9305-f84e6857409f",
+      "names": [
+        {
+          "value": "Eko //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F805*6d0ce500-539a-4a5a-89c5-25d763ccfb64"
+        }
+      ],
+      "id": "I1859*e1670e0f-12e1-4f97-b81a-e0c6625b3711",
+      "names": [
+        {
+          "value": "Burju //"
         }
       ],
       "eventsFacts": [
