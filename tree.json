@@ -13379,6 +13379,19 @@
           "ref": "I1850*02edc3fe-9c79-47d1-96ff-ae92a58940c7"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I1853*7339b742-c9aa-4fb8-8289-709cdf15e88a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1179*11d8e088-d181-405f-a11c-0822c6b2d27d"
+        }
+      ],
+      "id": "F803*b1aa3f73-ee20-4030-a189-a495c43f4e6e"
     }
   ],
   "head": {
@@ -38296,6 +38309,11 @@
           "ref": "F504*eb1162b6-c349-4fca-96d6-3839af8a1f45"
         }
       ],
+      "fams": [
+        {
+          "ref": "F803*b1aa3f73-ee20-4030-a189-a495c43f4e6e"
+        }
+      ],
       "id": "I1179*11d8e088-d181-405f-a11c-0822c6b2d27d",
       "names": [
         {
@@ -51756,6 +51774,25 @@
       "names": [
         {
           "value": " /Simbolon/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F803*b1aa3f73-ee20-4030-a189-a495c43f4e6e"
+        }
+      ],
+      "id": "I1853*7339b742-c9aa-4fb8-8289-709cdf15e88a",
+      "names": [
+        {
+          "value": "Samuel //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
