@@ -51848,13 +51848,18 @@
       "id": "I1855*a7a9052c-18d3-4436-ba7f-103c5d8a4bcc",
       "names": [
         {
-          "value": "Galogan //"
+          "value": "Galogad //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
