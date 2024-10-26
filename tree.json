@@ -38378,6 +38378,17 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ],
+      "media": [
+        {
+          "_file": "Screenshot_20241026_192112_WhatsApp.jpg",
+          "fileTag": "FILE"
         }
       ]
     },
