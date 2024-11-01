@@ -27689,13 +27689,18 @@
       "id": "I669*f9e3e0a7-1789-4f34-a641-143c01716a0a",
       "names": [
         {
-          "value": "Risman //"
+          "value": "Mr.X //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
