@@ -13444,6 +13444,9 @@
         },
         {
           "ref": "I1865*4bdbe4ac-7606-4121-bfc5-dc3513ea283b"
+        },
+        {
+          "ref": "I1866*f742bc48-da89-40a1-849d-8e5b1819ac3e"
         }
       ],
       "husbandRefs": [
@@ -52122,6 +52125,25 @@
       "names": [
         {
           "value": "Erna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F806*bf49da0d-2fe3-48ee-ad4b-05cd494b727f"
+        }
+      ],
+      "id": "I1866*f742bc48-da89-40a1-849d-8e5b1819ac3e",
+      "names": [
+        {
+          "value": "Fikq //"
         }
       ],
       "eventsFacts": [
