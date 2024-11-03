@@ -13443,6 +13443,19 @@
         }
       ],
       "id": "F806*bf49da0d-2fe3-48ee-ad4b-05cd494b727f"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1862*2d2af0a7-bfca-4339-8125-81ea5a4882bb"
+        }
+      ],
+      "id": "F807*0193c0fb-e5a6-4833-a5f8-e8939e66dc68",
+      "wifeRefs": [
+        {
+          "ref": "I1861*74a18ce6-bf46-4569-a28e-1cbe215d8845"
+        }
+      ]
     }
   ],
   "head": {
@@ -52016,6 +52029,11 @@
           "ref": "F806*bf49da0d-2fe3-48ee-ad4b-05cd494b727f"
         }
       ],
+      "fams": [
+        {
+          "ref": "F807*0193c0fb-e5a6-4833-a5f8-e8939e66dc68"
+        }
+      ],
       "id": "I1861*74a18ce6-bf46-4569-a28e-1cbe215d8845",
       "names": [
         {
@@ -52026,6 +52044,19 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F807*0193c0fb-e5a6-4833-a5f8-e8939e66dc68"
+        }
+      ],
+      "id": "I1862*2d2af0a7-bfca-4339-8125-81ea5a4882bb",
+      "names": [
+        {
+          "value": " /Lubis/"
         }
       ]
     }
