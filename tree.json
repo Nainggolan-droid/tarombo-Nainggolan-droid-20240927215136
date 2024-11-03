@@ -18656,6 +18656,7 @@
       "id": "I244*e74b7f1f-5f3e-4d9a-8a1a-2a64ea37e57b",
       "names": [
         {
+          "nick": "Op.ni.si.Dea",
           "value": "Dermani //"
         }
       ],
@@ -18663,6 +18664,11 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
