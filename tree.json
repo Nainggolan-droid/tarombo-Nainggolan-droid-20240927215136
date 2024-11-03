@@ -13432,6 +13432,11 @@
       "id": "F805*6d0ce500-539a-4a5a-89c5-25d763ccfb64"
     },
     {
+      "childRefs": [
+        {
+          "ref": "I1861*74a18ce6-bf46-4569-a28e-1cbe215d8845"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I265*cfc7d973-294a-4989-a524-e434982584e3"
@@ -52018,6 +52023,25 @@
       "names": [
         {
           "value": " /Lubis/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F806*bf49da0d-2fe3-48ee-ad4b-05cd494b727f"
+        }
+      ],
+      "id": "I1861*74a18ce6-bf46-4569-a28e-1cbe215d8845",
+      "names": [
+        {
+          "value": "Mama Kesia //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
