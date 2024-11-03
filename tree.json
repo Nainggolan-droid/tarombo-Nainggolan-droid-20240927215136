@@ -13435,6 +13435,9 @@
       "childRefs": [
         {
           "ref": "I1861*74a18ce6-bf46-4569-a28e-1cbe215d8845"
+        },
+        {
+          "ref": "I1863*3989c8ba-dea8-4007-8ed6-541cfd1a62a2"
         }
       ],
       "husbandRefs": [
@@ -52057,6 +52060,25 @@
       "names": [
         {
           "value": " /Lubis/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F806*bf49da0d-2fe3-48ee-ad4b-05cd494b727f"
+        }
+      ],
+      "id": "I1863*3989c8ba-dea8-4007-8ed6-541cfd1a62a2",
+      "names": [
+        {
+          "value": "Petrus //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
