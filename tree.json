@@ -13514,13 +13514,17 @@
       "id": "I1*0700e504-f387-4613-b956-1d6b135be65b",
       "names": [
         {
-          "value": "DATU PARULAS //"
+          "value": "DATU PARULAS PARULTOP //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "tag": "BIRT",
+          "value": "Y"
         }
       ],
       "media": [
