@@ -651,6 +651,9 @@
         },
         {
           "ref": "I102*513da9db-0376-4c59-84a7-60f2107f126d"
+        },
+        {
+          "ref": "I1868*d2e0fdf8-9120-44fd-a69f-fae90bf45087"
         }
       ],
       "husbandRefs": [
@@ -52209,6 +52212,25 @@
       "names": [
         {
           "value": " /Lubis/"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F36*4554c7ee-a4d9-4933-baca-d56f27c27126"
+        }
+      ],
+      "id": "I1868*d2e0fdf8-9120-44fd-a69f-fae90bf45087",
+      "names": [
+        {
+          "value": "Desi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
