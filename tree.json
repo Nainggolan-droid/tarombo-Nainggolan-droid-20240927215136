@@ -677,11 +677,6 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I103*92cf6b8c-d04b-41f6-abbe-ca602a0a4bb5"
-        }
-      ],
       "id": "F38*207a6833-2b7f-491d-97e9-2962be246dbe",
       "wifeRefs": [
         {
@@ -15674,21 +15669,24 @@
       "names": [
         {
           "value": "Sarah //"
+        },
+        {
+          "value": "//"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
     {
-      "fams": [
-        {
-          "ref": "F38*207a6833-2b7f-491d-97e9-2962be246dbe"
-        }
-      ],
       "id": "I103*92cf6b8c-d04b-41f6-abbe-ca602a0a4bb5",
       "names": [
         {
