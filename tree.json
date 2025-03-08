@@ -13965,6 +13965,11 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -15455,6 +15460,11 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -15630,6 +15640,11 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -15640,9 +15655,12 @@
         }
       ],
       "id": "I101*214f03ae-eeea-4a54-9161-246295225581",
-      "names": [
+      "names": [],
+      "eventsFacts": [
         {
-          "value": " /Tobing/"
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -23482,6 +23500,7 @@
         },
         {
           "date": "8 NOV 1978",
+          "place": "",
           "tag": "BIRT"
         }
       ],
