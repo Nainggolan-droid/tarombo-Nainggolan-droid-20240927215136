@@ -51866,13 +51866,18 @@
       "id": "I1849*9f1a81ec-2003-47db-b453-ca8ddb58da35",
       "names": [
         {
-          "value": "Par Ronggur ni huta //"
+          "value": "Nai.Galatang //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
