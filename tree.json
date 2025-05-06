@@ -29794,12 +29794,21 @@
       "names": [
         {
           "value": "Roma //"
+        },
+        {
+          "nick": "Op.Pania",
+          "value": "//"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
