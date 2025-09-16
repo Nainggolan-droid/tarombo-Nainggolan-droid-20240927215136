@@ -13484,6 +13484,9 @@
         },
         {
           "ref": "I1870*22ee029f-c9e5-497c-82a7-f533935908c9"
+        },
+        {
+          "ref": "I1871*aee8f5e3-5508-45fa-83d8-1e94ebc16cd4"
         }
       ],
       "husbandRefs": [
@@ -52307,6 +52310,25 @@
       "names": [
         {
           "value": "Mangasi //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F809*7793429a-815b-4a5d-9c3b-8b3d39028ea5"
+        }
+      ],
+      "id": "I1871*aee8f5e3-5508-45fa-83d8-1e94ebc16cd4",
+      "names": [
+        {
+          "value": "Rudi //"
         }
       ],
       "eventsFacts": [
