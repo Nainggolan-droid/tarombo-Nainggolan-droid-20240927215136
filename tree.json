@@ -19108,15 +19108,13 @@
           "value": "M"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "BIRT",
+          "value": "Y"
         },
         {
-          "date": "",
-          "place": "",
-          "tag": "DEAT",
-          "value": "Y"
+          "date": "14 SEP 2025",
+          "place": "RSCM Jakarta",
+          "tag": "DEAT"
         }
       ],
       "media": [
